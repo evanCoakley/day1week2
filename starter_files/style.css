@@ -118,6 +118,7 @@ header {
     }
     #sidebar_content div {
         padding: 0 2rem;
+        flex: 1;
     }
 }
 
